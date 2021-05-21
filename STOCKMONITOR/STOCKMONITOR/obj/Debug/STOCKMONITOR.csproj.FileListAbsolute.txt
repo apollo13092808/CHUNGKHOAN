@@ -1,0 +1,10 @@
+F:\BG Chuyen De CNPM\A. Bai Giang\Final\STOCKMONITOR\STOCKMONITOR\bin\Debug\STOCKMONITOR.exe.config
+F:\BG Chuyen De CNPM\A. Bai Giang\Final\STOCKMONITOR\STOCKMONITOR\bin\Debug\STOCKMONITOR.exe
+F:\BG Chuyen De CNPM\A. Bai Giang\Final\STOCKMONITOR\STOCKMONITOR\bin\Debug\STOCKMONITOR.pdb
+F:\BG Chuyen De CNPM\A. Bai Giang\Final\STOCKMONITOR\STOCKMONITOR\obj\Debug\STOCKMONITOR.csprojAssemblyReference.cache
+F:\BG Chuyen De CNPM\A. Bai Giang\Final\STOCKMONITOR\STOCKMONITOR\obj\Debug\STOCKMONITOR.FormStock.resources
+F:\BG Chuyen De CNPM\A. Bai Giang\Final\STOCKMONITOR\STOCKMONITOR\obj\Debug\STOCKMONITOR.Properties.Resources.resources
+F:\BG Chuyen De CNPM\A. Bai Giang\Final\STOCKMONITOR\STOCKMONITOR\obj\Debug\STOCKMONITOR.csproj.GenerateResource.cache
+F:\BG Chuyen De CNPM\A. Bai Giang\Final\STOCKMONITOR\STOCKMONITOR\obj\Debug\STOCKMONITOR.csproj.CoreCompileInputs.cache
+F:\BG Chuyen De CNPM\A. Bai Giang\Final\STOCKMONITOR\STOCKMONITOR\obj\Debug\STOCKMONITOR.exe
+F:\BG Chuyen De CNPM\A. Bai Giang\Final\STOCKMONITOR\STOCKMONITOR\obj\Debug\STOCKMONITOR.pdb
